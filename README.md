@@ -1,15 +1,3 @@
-# Team members:  
-
-King Long Tang | tangkl@seas.upenn.edu
-
-Jingqi Yao | jingqiy@seas.upenn.edu
-
-Ruiwen Yang | ruiweny@seas.upenn.edu
-
-Richard Zhang | zhank24@seas.upenn.edu
-
----
-
 # PennCloud Distributed Key-Value Store System
 
 This project implements a distributed cloud platform with a key-value store backend, similar to Google Apps with Gmail and Drive functionality.
