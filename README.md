@@ -8,33 +8,6 @@ Ruiwen Yang | ruiweny@seas.upenn.edu
 
 Richard Zhang | zhank24@seas.upenn.edu
 
-### SEAS logins: 
-tangkl jingqiy ruiweny zhank24
-
-### Which features did you implement?
-
-Entire assignment
-
-### Did you complete any extra-credit tasks? If so, describe them!
-
-No
-
-### Any special instructions for building and running your solution?
-
-See below
-
-### Did the members of this team personally write _all_ the code they are submitting (other than code from the course web page, code from their own homework submissions, and tools specifically authorized on Ed)?
-  [X] Yes
-  [ ] No
-
-### Did the members of this team copy any code from the Internet, or from classmates who were not on this team?
-  [ ] Yes
-  [X] No
-
-### Did the members of this team collaborate with anyone on this assignment who was not on this team?
-  [ ] Yes
-  [X] No
-
 ---
 
 # PennCloud Distributed Key-Value Store System
